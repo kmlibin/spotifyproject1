@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spotifyproject1/static/css/main.939e19fb.css",
+    "main.js": "/spotifyproject1/static/js/main.ccdd3372.js",
+    "static/media/background_photo_desktop.webp": "/spotifyproject1/static/media/background_photo_desktop.fe3a0beddb5034b9c8c5.webp",
+    "index.html": "/spotifyproject1/index.html",
+    "main.939e19fb.css.map": "/spotifyproject1/static/css/main.939e19fb.css.map",
+    "main.ccdd3372.js.map": "/spotifyproject1/static/js/main.ccdd3372.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939e19fb.css",
+    "static/js/main.ccdd3372.js"
+  ]
+}
