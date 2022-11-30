@@ -3,7 +3,8 @@
  
 This project connects to the Spotify API and allows users to search for a song, album, or artist. After the search, the results are populated on the screen, and the user can push songs to a playlist. The user can then delete songs from the playlist, rename the playlist, and/or save the playlist to Spotify.
 
- -API key removed
+ -API key removed, so the deploy isn't fully functional"
+ gh-pages deploy: https://kmlibin.github.io/spotifyproject1/
 
 ### Languages
 
